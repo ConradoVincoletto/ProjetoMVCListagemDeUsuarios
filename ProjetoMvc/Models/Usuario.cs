@@ -18,5 +18,7 @@ namespace ProjetoMvc.Models
         [Display(Name = "Telefone")]
         [Column("Telefone")]
         public string Telefone { get; set; }
+
+
     }
 }
